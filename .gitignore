@@ -1,0 +1,8 @@
+config/*
+data/*
+*~
+uc_server/data/config.inc.php
+nbproject/*
+.idea/
+.idea/**
+*.*~
