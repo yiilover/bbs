@@ -1,4 +1,4 @@
-<?php echo 'ÇëÖ§³ÖÕı°æ QQ475353687';exit;?>
+<?php echo 'ï¿½ï¿½Ö§ï¿½ï¿½ï¿½ï¿½ï¿½ QQ475353687';exit;?>
 	</div>
     <!--{if empty($_G['forum']['sortmode'])}-->
     </div>
@@ -68,44 +68,25 @@
         text-align: center;
     }
 </style>
+
 <div class="footer">
     <div class="footer-links">
-        <a target="_blank" class="item" href="http://www.ddecshop.com/page/about">¹ØÓÚÎÒÃÇ</a> |
-        <a target="_blank" class="item" href="http://www.ddecshop.com/page/contact">ÁªÏµÎÒÃÇ</a> |
-        <a target="_blank" class="item" href="http://www.ddecshop.com/page/links">ÓÑÇéÁ´½Ó</a> |
-        <a target="_blank" class="item" href="http://www.ddecshop.com/page/sitemap">Õ¾µãµØÍ¼</a> |
-        <a target="_blank" class="item" href="http://www.ddecshop.com/page/joinus">¼ÓÈëÎÒÃÇ</a>
+        <a target="_blank" class="item" href="http://www.ddecshop.com/page/about">å…³äºæˆ‘ä»¬</a> |
+        <a target="_blank" class="item" href="http://www.ddecshop.com/page/contact">è”ç³»æˆ‘ä»¬</a> |
+        <a target="_blank" class="item" href="http://www.ddecshop.com/page/links">å‹æƒ…é“¾æ¥</a> |
+        <a target="_blank" class="item" href="http://www.ddecshop.com/page/sitemap">ç«™ç‚¹åœ°å›¾</a> |
+        <a target="_blank" class="item" href="http://www.ddecshop.com/page/joinus">åŠ å…¥æˆ‘ä»¬</a>
     </div>
     <div class="footer-copyright">
-        Copyright &copy; 2009-2014 ddecshop.com All rights reserved. Powered by ¶à¶àÄ£°åÖ®¼Ò Co.,Ltd.
+        Copyright &copy; 2009-2014 ddecshop.com All rights reserved. Powered by å¤šå¤šæ¨¡æ¿ä¹‹å®¶ Co.,Ltd.
     </div>
     <div class="footer-public">
         <a target="_blank" href="http://www.sgs.gov.cn">
-            <img src="http://www.ddecshop.com/images/shgs.gif" alt="ÉÏº£¹¤ÉÌ"></a>
+            <img src="http://www.ddecshop.com/images/shgs.gif" alt="ä¸Šæµ·å·¥å•†"></a>
         <a target="_blank" href="https://szfw.org">
-            <img src="http://www.ddecshop.com/images/cxwz.png" alt="³ÏĞÅÍøÕ¾"></a>
+            <img src="http://www.ddecshop.com/images/cxwz.png" alt="è¯šä¿¡ç½‘ç«™"></a>
         <a target="_blank" href="http://www.315online.com.cn">
-            <img src="http://www.ddecshop.com/images/315.gif" alt="ÍøÕ¾½»Ò×±£ÕÏÖĞĞÄ°²È«Íø¹ºÃÅ»§"></a>
-    </div>
-</div>
-<div class="footer">
-    <div class="footer-links">
-        <a target="_blank" class="item" href="http://www.ddecshop.com/page/about">¹ØÓÚÎÒÃÇ</a> |
-        <a target="_blank" class="item" href="http://www.ddecshop.com/page/contact">ÁªÏµÎÒÃÇ</a> |
-        <a target="_blank" class="item" href="http://www.ddecshop.com/page/links">ÓÑÇéÁ´½Ó</a> |
-        <a target="_blank" class="item" href="http://www.ddecshop.com/page/sitemap">Õ¾µãµØÍ¼</a> |
-        <a target="_blank" class="item" href="http://www.ddecshop.compage/joinus">¼ÓÈëÎÒÃÇ</a>
-    </div>
-    <div class="footer-copyright">
-        Copyright ? 2009-2014 ddecshop.com All rights reserved. Powered by ¶à¶àÄ£°åÖ®¼Ò Co.,Ltd.
-    </div>
-    <div class="footer-public">
-        <a target="_blank" href="http://www.sgs.gov.cn">
-            <img src="http://www.ddecshop.com/images/shgs.gif" alt="ÉÏº£¹¤ÉÌ"></a>
-        <a target="_blank" href="https://szfw.org">
-            <img src="http://www.ddecshop.com/images/cxwz.png" alt="³ÏĞÅÍøÕ¾"></a>
-        <a target="_blank" href="http://www.315online.com.cn">
-            <img src="http://www.ddecshop.com/images/315.gif" alt="ÍøÕ¾½»Ò×±£ÕÏÖĞĞÄ°²È«Íø¹ºÃÅ»§"></a>
+            <img src="http://www.ddecshop.com/images/315.gif" alt="ç½‘ç«™äº¤æ˜“ä¿éšœä¸­å¿ƒå®‰å…¨ç½‘è´­é—¨æˆ·"></a>
     </div>
 </div>
 <!--{/if}-->
