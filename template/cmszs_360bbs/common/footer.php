@@ -59,29 +59,35 @@
 
 	<!--{hook/global_footer}-->
     <div id="ft" class="top_ft"> </div>
-		<div class="footer">
-    <div class="footerinner">
-				
-				
-				<!--{hook/global_footerlink}-->
-				<!--{if $_G['setting']['statcode']}--><i style="display:none;">$_G['setting']['statcode']</i><!--{/if}-->
+<style>
+    .footer{
+        background: none repeat scroll 0 0 #F7F7F7;
+        border-top: 1px solid #E6E6E6;
+        line-height: 25px;
 
-    <div style="clear:both"></div> 
-    <p class="copyright">Copyright &copy; 2014 <!--{if $_G['setting']['icp']}-->( $_G['setting']['icp'] )<!--{/if}--></p>
-
-     
-    <span class="slogan">$_G['setting']['sitename']</span>
-			
+        text-align: center;
+    }
+</style>
+<div class="footer">
+    <div class="footer-links">
+        <a target="_blank" class="item" href="http://www.ddecshop.com/page/about">关于我们</a> |
+        <a target="_blank" class="item" href="http://www.ddecshop.com/page/contact">联系我们</a> |
+        <a target="_blank" class="item" href="http://www.ddecshop.com/page/links">友情链接</a> |
+        <a target="_blank" class="item" href="http://www.ddecshop.com/page/sitemap">站点地图</a> |
+        <a target="_blank" class="item" href="http://www.ddecshop.compage/joinus">加入我们</a>
     </div>
-		<!--{eval updatesession();}-->
-		<!--{if $_G['uid'] && $_G['group']['allowinvisible']}-->
-			<script type="text/javascript">
-			var invisiblestatus = '<!--{if $_G['session']['invisible']}-->{lang login_invisible_mode}<!--{else}-->{lang login_normal_mode}<!--{/if}-->';
-			var loginstatusobj = $('loginstatusid');
-			if(loginstatusobj != undefined && loginstatusobj != null) loginstatusobj.innerHTML = invisiblestatus;
-			</script>
-		<!--{/if}-->
-	</div>
+    <div class="footer-copyright">
+        Copyright ? 2009-2014 ddecshop.com All rights reserved. Powered by 多多模板之家 Co.,Ltd.
+    </div>
+    <div class="footer-public">
+        <a target="_blank" href="http://www.sgs.gov.cn">
+            <img src="http://www.ddecshop.com/images/shgs.gif" alt="上海工商"></a>
+        <a target="_blank" href="https://szfw.org">
+            <img src="http://www.ddecshop.com/images/cxwz.png" alt="诚信网站"></a>
+        <a target="_blank" href="http://www.315online.com.cn">
+            <img src="http://www.ddecshop.com/images/315.gif" alt="网站交易保障中心安全网购门户"></a>
+    </div>
+</div>
 <!--{/if}-->
 
 <!--{if !$_G['setting']['bbclosed'] && !$_G['member']['freeze'] && !$_G['member']['groupexpiry']}-->
