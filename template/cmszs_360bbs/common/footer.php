@@ -61,15 +61,14 @@
     <div id="ft" class="top_ft"> </div>
 		<div class="footer">
     <div class="footerinner">
-				<!--{loop $_G['setting']['footernavs'] $nav}--><!--{if $nav['available'] && ($nav['type'] && (!$nav['level'] || ($nav['level'] == 1 && $_G['uid']) || ($nav['level'] == 2 && $_G['adminid'] > 0) || ($nav['level'] == 3 && $_G['adminid'] == 1)) ||
-						!$nav['type'] && ($nav['id'] == 'stat' && $_G['group']['allowstatdata'] || $nav['id'] == 'report' && $_G['uid'] || $nav['id'] == 'archiver' || $nav['id'] == 'mobile' || $nav['id'] == 'darkroom'))}-->$nav[code]<span class="pipe"></span><!--{/if}--><!--{/loop}-->
+				
 				
 				<!--{hook/global_footerlink}-->
 				<!--{if $_G['setting']['statcode']}--><i style="display:none;">$_G['setting']['statcode']</i><!--{/if}-->
-                   <!--{if $_G['setting']['site_qq']}--><a href="http://wpa.qq.com/msgrd?V=3&Uin=$_G['setting']['site_qq']&Site=$_G['setting']['bbname']&Menu=yes&from=discuz" target="_blank" title="QQ"><img src="{IMGDIR}/site_qq.jpg" alt="QQ"/></a><span class="pipe"></span><!--{/if}-->
+
     <div style="clear:both"></div> 
     <p class="copyright">Copyright &copy; 2014 <!--{if $_G['setting']['icp']}-->( $_G['setting']['icp'] )<!--{/if}--></p>
-    <p class="powered">Powered by <a href="http://www.discuz.net" target="_blank">Discuz!</a> <em>$_G['setting']['version']</em><!--{if !empty($_G['setting']['boardlicensed'])}--> <a href="http://license.comsenz.com/?pid=1&host=$_SERVER[HTTP_HOST]" target="_blank">Licensed</a><!--{/if}--></p>
+
      
     <span class="slogan">$_G['setting']['sitename']</span>
 			
