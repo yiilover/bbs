@@ -74,6 +74,26 @@
         <a target="_blank" class="item" href="http://www.ddecshop.com/page/contact">联系我们</a> |
         <a target="_blank" class="item" href="http://www.ddecshop.com/page/links">友情链接</a> |
         <a target="_blank" class="item" href="http://www.ddecshop.com/page/sitemap">站点地图</a> |
+        <a target="_blank" class="item" href="http://www.ddecshop.com/page/joinus">加入我们</a>
+    </div>
+    <div class="footer-copyright">
+        Copyright &copy; 2009-2014 ddecshop.com All rights reserved. Powered by 多多模板之家 Co.,Ltd.
+    </div>
+    <div class="footer-public">
+        <a target="_blank" href="http://www.sgs.gov.cn">
+            <img src="http://www.ddecshop.com/images/shgs.gif" alt="上海工商"></a>
+        <a target="_blank" href="https://szfw.org">
+            <img src="http://www.ddecshop.com/images/cxwz.png" alt="诚信网站"></a>
+        <a target="_blank" href="http://www.315online.com.cn">
+            <img src="http://www.ddecshop.com/images/315.gif" alt="网站交易保障中心安全网购门户"></a>
+    </div>
+</div>
+<div class="footer">
+    <div class="footer-links">
+        <a target="_blank" class="item" href="http://www.ddecshop.com/page/about">关于我们</a> |
+        <a target="_blank" class="item" href="http://www.ddecshop.com/page/contact">联系我们</a> |
+        <a target="_blank" class="item" href="http://www.ddecshop.com/page/links">友情链接</a> |
+        <a target="_blank" class="item" href="http://www.ddecshop.com/page/sitemap">站点地图</a> |
         <a target="_blank" class="item" href="http://www.ddecshop.compage/joinus">加入我们</a>
     </div>
     <div class="footer-copyright">
